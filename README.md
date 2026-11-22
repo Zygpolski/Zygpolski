@@ -4,7 +4,7 @@
 
 ### Hi, I'm Zygpolski 👋
 
-I make **[Ziggy Bot](https://github.com/Zygpolski/ziggybot-releases)**: a team of AI helpers that lives on your own
+I Engineered **[Ziggy Bot](https://github.com/Zygpolski/ziggybot-releases)**: a team of AI helpers that lives on your own
 Windows PC. Each bot has one job. They browse the web, read and write files, do exact sums, remember what you tell
 them, work together as a team and run jobs on a timetable, and they always stop to ask before doing anything that
 can't be undone.

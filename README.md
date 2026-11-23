@@ -4,13 +4,12 @@
 
 ### Hi, I'm Zygpolski 👋
 
-I make **[Ziggy Bot](https://github.com/Zygpolski/ziggybot-releases)**: a team of AI helpers that lives on your own
+I engineered **[Ziggy Bot](https://github.com/Zygpolski/ziggybot-releases)**: a team of AI helpers that lives on your own
 Windows PC. Each bot has one job. They browse the web, read and write files, do exact sums, remember what you tell
 them, work together as a team and run jobs on a timetable, and they always stop to ask before doing anything that
 can't be undone.
 
-**No subscription, no usage limits, and your data stays on your computer.** It's in beta: testers are very welcome, and
-if you need help, email me at zygpolski@proton.me.
+**No subscription, no usage limits, and your data stays on your computer.** 
 
 <p>
   <a href="https://github.com/Zygpolski/ziggybot-releases/releases/latest"><img alt="Download Ziggy Bot for Windows" src="https://img.shields.io/badge/Download-Ziggy%20Bot%20for%20Windows-4f5bd5?style=for-the-badge&logo=windows11&logoColor=white"></a>
